@@ -1,0 +1,31 @@
+body {
+    background-color: #AAAA00;
+    font-size: 15px;
+    text-align: center;
+}
+
+.imp {
+    font-weight: bold;
+}
+
+#link {
+    text-decoration: underline;
+    font-style: italic;
+    color: purple;
+}
+
+ol {
+    font-style: oblique;
+    font-weight: lighter;
+    padding-left:1em;
+}
+
+li {
+    padding-left:1em;
+}
+
+#btn {
+    background-color:#00aa22;
+    text-decoration: none;
+    color: black ;
+}
